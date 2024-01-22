@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+label {
+  font-weight: lighter;
+  color: rgb(50,50,50);
+}
+
+.bar-left {
+  border-style: solid;
+  border-top: 0;
+  border-right: 0;
+  border-bottom: 0;
+
+  border-width: 6px;
+  border-color: rgb(200,200,200);
+}
